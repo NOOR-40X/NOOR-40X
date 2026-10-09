@@ -1,72 +1,87 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0047ff&height=250&section=header&text=Private-X&fontSize=80&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Python+Developer;Automation+Architect;Backend+Engineer;Building+The+Future"/><img src="https://komarev.com/ghpvc/?username=Private-X&label=PROFILE+VIEWS&color=00d1ff&style=for-the-badge"/></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0047ff&height=250&section=header&text=NOOR-40X&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Python+Developer;Automation+Architect;Backend+Engineer;Building+The+Future"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=NOOR-40X&label=PROFILE+VIEWS&color=00d1ff&style=for-the-badge"/>
+</div>
 
- Who Am I:
-  - Name: Daniyal Hossain Noor
-  - Alias: NOOR-40X
-  - Location: Bangladesh
-  - Role: Python Developer & Automation Specialist
+<br/>
 
- Focus:
-  - Enterprise Automation
-  - Flask Backends
-  - Web Scraping
-  - API Integration
-  - Intelligent Systems
+### 👤 Who Am I
+- **Name:** Daniyal Hossain Noor
+- **Alias:** NOOR-40X
+- **Location:** Bangladesh
+- **Role:** Python Developer & Automation Specialist
 
+### 🎯 Focus
+- Enterprise Automation
+- Flask Backends
+- Web Scraping
+- API Integration
+- Intelligent Systems
 
-<img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
 
-🚀 About
+### 🚀 About
 
-I am a dedicated Python Developer and Automation Specialist operating under the handle Private-X.
+I am a dedicated Python Developer and Automation Specialist operating under the handle **NOOR-40X**.
 
 My mission is to transform complex manual workflows into intelligent automated systems.
 
-Current Objectives
-
+#### Current Objectives:
 - 🚀 Enterprise-grade Automation
 - 🌐 Backend API Development
 - 🤖 Smart Bots & Automation
 - 📊 Data Processing Systems
 - 🔥 Advanced Python Engineering
 
-<img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-💻 Tech Stack:
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
-</p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
-
-⚙️ Operational Capacity
-
-Department| Capabilities
-🤖 Automation| Scrapers, Bots, Task Schedulers
-🖥️ Software Development| Python Desktop Applications
-🌐 Backend Engineering| Flask APIs & Admin Panels
-📊 Data Processing| JSON, XML & Database Systems
-🔐 Security Research| System Analysis & Automation
-
-<img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-
-📊 Performance Analytics
+### 💻 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Private-X&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Private-X&theme=tokyonight&hide_border=true" width="49%" />
-</p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
+  <img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
+</p>
 
-📈 Github Summary
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
+
+### ⚙️ Operational Capacity
+
+| Department | Capabilities |
+| :--- | :--- |
+| 🤖 **Automation** | Scrapers, Bots, Task Schedulers |
+| 🖥️ **Software Development** | Python Desktop Applications |
+| 🌐 **Backend Engineering** | Flask APIs & Admin Panels |
+| 📊 **Data Processing** | JSON, XML & Database Systems |
+| 🔐 **Security Research** | System Analysis & Automation |
+
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
+
+### 📊 Performance Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=tokyonight" width="100%" />
-</p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=NOOR-40X&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOOR-40X&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
-🧬 Digital Dna
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
-class PrivateX:
+### 📈 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NOOR-40X&theme=tokyonight" width="100%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
+
+### 🧬 Digital DNA
+
+```py
+class NOOR40X:
 
     def __init__(self):
-        self.alias = "Private-X"
+        self.alias = "NOOR-40X"
         self.role = "Automation Architect"
 
     def daily_routine(self):
@@ -76,27 +91,4 @@ class PrivateX:
             self.deploy_solutions()
             self.learn_new_things()
 
-PrivateX().daily_routine()
-
-<img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-📡 Social Media Connection
-
-<p align="center"><a href="https://discord.gg/8k9R7Bv4">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a><a href="https://www.facebook.com/WHO.IS.NOOR">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a><a href="https://www.instagram.com/_n_o_o_r_4_0_4_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="mailto:daniyaln.hossai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">
-
-<div align="center">⚡ CODE • CREATE • AUTOMATE • INNOVATE ⚡
-
-"Turning ideas into intelligent systems."
-
-</div>
+NOOR40X().daily_routine()
