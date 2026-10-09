@@ -41,13 +41,12 @@ Current Objectives
 ⚙️ Operational Capacity
 
 Department| Capabilities
-
 🤖 Automation| Scrapers, Bots, Task Schedulers
 🔍 Reverse Engineering| Binary Analysis, Network Protocol Analysis, Decompilation
 🖥️ Software Development| Python Desktop Applications
 🌐 Backend Engineering| Flask APIs & Admin Panels
 📊 Data Processing| JSON, XML & Database Systems
-🔐 Security Research| System Analysis, Vulnerability Research & Automation
+🔐 Security Research| System Analysis & Automation
 
 <img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
