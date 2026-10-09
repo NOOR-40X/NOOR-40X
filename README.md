@@ -2,7 +2,7 @@
 
  Who Am I:
   - Name: Daniyal Hossain Noor
-  - Alias: Private-X
+  - Alias: NOOR-40X
   - Location: Bangladesh
   - Role: Python Developer & Automation Specialist
 
