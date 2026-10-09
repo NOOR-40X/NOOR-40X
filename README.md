@@ -42,7 +42,6 @@ Current Objectives
 
 Department| Capabilities
 🤖 Automation| Scrapers, Bots, Task Schedulers
-🔍 Reverse Engineering| Binary Analysis, Network Protocol Analysis, Decompilation
 🖥️ Software Development| Python Desktop Applications
 🌐 Backend Engineering| Flask APIs & Admin Panels
 📊 Data Processing| JSON, XML & Database Systems
