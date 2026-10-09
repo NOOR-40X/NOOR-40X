@@ -93,7 +93,7 @@ class NOOR40X:
             self.deploy_solutions()
 
 NOOR40X().daily_routine()
-` ` `
+```
 
 <img src="https://raw.githubusercontent.com/NOOR-40X/NOOR-40X/refs/heads/main/Assests/Rainbow.gif" width="100%">
 
