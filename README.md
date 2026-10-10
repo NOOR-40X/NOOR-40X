@@ -109,7 +109,7 @@ NOOR40X().daily_routine()
   <a href="https://discord.gg/8k9R7Bv4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/WHO.IS.NOOR" target="_blank">
+  <a href="https://www.facebook.com/noor.40xx" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_n_o_o_r_4_0_4_" target="_blank">
